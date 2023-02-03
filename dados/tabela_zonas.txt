@@ -1,0 +1,3 @@
+CodigoZona,Nome,Latitude,Longitude,Altitude,Descrição
+CVMX,zona1,11.0,7.0,50.0,zona muito alta
+BXWN,zona2,6.0,3.0,25.0,zona mais baixa

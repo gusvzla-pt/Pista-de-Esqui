@@ -1,0 +1,2 @@
+CodigoSecção,ZonaInicio,ZonaFim,Distancia
+CVMX-BXWN,CVMX,BXWN,6

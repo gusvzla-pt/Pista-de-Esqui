@@ -1,0 +1,3 @@
+Nome,ZonaAssociada,Descrição
+comodidades da zona 1,CVMX,"restaurante, WC, Snowpark"
+comodidades da zona 2,BXWN,WC

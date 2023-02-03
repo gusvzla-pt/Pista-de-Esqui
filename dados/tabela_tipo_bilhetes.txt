@@ -1,0 +1,5 @@
+CódigoTipoBilhete,Nome,Duração,Descrição
+DIAR,diario,"datetime.timedelta(days=1)","Este bilhete tem uma Duração de um (1) dia"
+SEMN,semanal,"datetime.timedelta(weeks=1)","Este bilhete tem uma Duração de sete (7) dias"
+MENS,mensal,"datetime.timedelta(weeks=4)","Este bilhete tem uma Duração de trinta (30) dias"
+ANUA,anual,"datetime.timedelta(weeks=52)","Este bilhete tem uma Duração de trecentos e sesenta e cinco (365) dias"

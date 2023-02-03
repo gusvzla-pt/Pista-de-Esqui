@@ -1,0 +1,12 @@
+Para iniciar o programa, basta executar o código. A parte do cliente não mostrará informações até que as tabelas estejam preenchidas, 
+no entanto, o programa não é danificado e continua a funcionar.
+
+O programa de operador foi projetado para que primeiro sejam adicionadas zonas, em seguida, pistas e depois seções.
+Se essa ordem for ignorada, o programa não permitirá adicionar novas informações devido às validações implementadas.
+
+Os códigos QR são gerados numa nova pasta chamada qr com o nome da referência do bilhete.
+
+Para que o programa funcione corretamente, é necessário instalar as seguintes bibliotecas:
+1- Pandas
+2- Qrcode
+3- Matplotlib.pyplot

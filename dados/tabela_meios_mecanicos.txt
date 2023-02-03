@@ -1,0 +1,2 @@
+Nome,ZonaPartida,ZonaChegada,Estado,Tipo
+mm1,CVMX,BXWN,Aberta,Uni-direccional

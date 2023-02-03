@@ -1,0 +1,2 @@
+PistaAssociada,SecçãoAssociada
+SEUW,CVMX-BXWN

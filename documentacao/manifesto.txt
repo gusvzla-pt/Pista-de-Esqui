@@ -1,0 +1,34 @@
+--- Código:
+
+Existem apenas dois arquivos de código, o arquivo de operador onde se encontra todo o código que o 
+operador poderá usar para adicionar informações sobre a pista de ski.
+
+O arquivo do cliente será para que o cliente possa visualizar as informações guardadas pelo 
+operador de forma limpa e organizada, de modo que possa se guiar pelas pistas de ski.
+
+--- Dados:
+
+Existem vários arquivos .txt para organizar as informações.
+
+tabela_bilhete: armazena informações relevantes sobre os bilhetes emitidos pelo 
+operador para os clientes. É também usada para armazenar informações no QR emitido.
+
+tabela_comodidades: armazena as comodidades de cada zona. É usada para mostrar ao cliente 
+as comodidades que cada zona tem.
+
+tabela_meios_mecanicos: registra os meios mecânicos da pista de ski.
+
+tabela_pistas: armazena as pistas existentes. É usada para validações no código 
+e para mostrar ao cliente as pistas existentes.
+
+tabela_seccoes: coleta informações sobre as seções das pistas, 
+é usada para validações no código.
+
+tabelas_seccoes_pistas: é preenchida com informações sobre as 
+pistas e as seções.
+
+tabela_tipo_bilhete: é uma tabela estática que armazena informações 
+sobre os bilhetes disponíveis para emissão.
+
+tabela_zonas: armazena informações sobre as zonas da pista de ski. 
+É usada para validações no código.

@@ -1,0 +1,2 @@
+CodigoPista,Nome,ZonaInicial,ZonaFinal,Dificuldade,Estado
+SEUW,pista1,CVMX,BXWN,Facil,Aberta

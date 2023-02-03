@@ -1,0 +1,2 @@
+ReferênciaBilhete,NomePessoa,Nacionalidade,TipoBilhete,DiaInicio,MêsInicio,AnoInicio,DiaFim,MêsFim,AnoFim
+1,Gustavo,portugues,semanal,5,1,2023,12,1,2023
